@@ -1,0 +1,23 @@
+{
+  "name": "@soptak12/drop-down-menu",
+  "version": "1.0.0",
+  "description": "a simple drop down menu module",
+  "main": "drop-down-menu.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soptak96/dropdown-npm-package.git"
+  },
+  "keywords": [
+    "soptak12"
+  ],
+  "author": "soptak chanda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soptak96/dropdown-npm-package/issues"
+  },
+  "homepage": "https://github.com/soptak96/dropdown-npm-package#readme",
+  "type": "module"
+}
